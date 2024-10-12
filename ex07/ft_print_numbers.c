@@ -6,7 +6,7 @@
 /*   By: jilin <jilin@student.s19.be>               +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/08 21:57:51 by jilin             #+#    #+#             */
-/*   Updated: 2024/10/08 21:57:51 by jilin            ###   ########.fr       */
+/*   Updated: 2024/10/12 23:43:37 by jilin            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ void ft_putchar(char c)
     write(1, &c, 1);
 }
 
-void ft_print_numbers(void)
+void	ft_print_numbers(void)
 {
     int number = 0;
 
